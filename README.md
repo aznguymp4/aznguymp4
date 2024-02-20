@@ -12,15 +12,9 @@ I started full-stack web development in 2019. Excited to create new projects!
 
 <header>
   <div align="center">
-    <a href="https://aznguy.com">
-      <img alt="Website" src="https://img.shields.io/badge/Website-aznguy.com-blue?style=flat&logo=safari&logoColor=white">
-    </a>
-    <a href="https://github.com/aznguymp4">
-      <img alt="My GitHub Profile" src="https://img.shields.io/badge/GitHub-aznguymp4-blue?style=flat&logo=github&logoColor=white">
-    </a>
-    <a href="https://x.com/aznguymp4">
-      <img alt="My X Profile" src="https://img.shields.io/badge/Twitter-aznguymp4-blue?style=flat&logo=x&logoColor=white">
-    </a>
+    <a href="https://aznguy.com"><img alt="Website" src="https://img.shields.io/badge/Website-aznguy.com-blue?style=flat&logo=safari&logoColor=white"></a>
+    <a href="https://github.com/aznguymp4"><img alt="My GitHub Profile" src="https://img.shields.io/badge/GitHub-aznguymp4-blue?style=flat&logo=github&logoColor=white"></a>
+    <a href="https://x.com/aznguymp4"><img alt="My X Profile" src="https://img.shields.io/badge/Twitter-aznguymp4-blue?style=flat&logo=x&logoColor=white"></a>
   </div>
   <h3>🔧 Tools I use</h3>
   <div>
@@ -54,7 +48,7 @@ I started full-stack web development in 2019. Excited to create new projects!
 <br/><br/>
 <details>
   <summary>
-    <h2>📊 Stats</h2>
+    <h3>📊 Stats</h3>
   </summary>
   <div>
     <br/>
