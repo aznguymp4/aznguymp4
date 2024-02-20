@@ -8,7 +8,7 @@
 </a> -->
 
 ## 👋 Hi, I'm Erich Nguyen
-Full-stack web developer since 2019
+I started full-stack web development in 2019. Excited to create new projects!
 
 <header>
   <div align="center">
@@ -24,10 +24,10 @@ Full-stack web developer since 2019
   </div>
 </header>
 <br/><br/>
-<!-- <details> -->
-  <!-- <summary> -->
+<details>
+  <summary>
     <h2>📊 Stats</h2>
-  <!-- </summary> -->
+  </summary>
   <div>
     <br/>
     <div>
@@ -54,7 +54,7 @@ Full-stack web developer since 2019
       </a>
     </div>
   </div>
-<!-- </details> -->
+</details>
 
 <!--
 **aznguymp4/aznguymp4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
