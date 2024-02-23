@@ -12,34 +12,86 @@ I started full-stack web development in 2019. Excited to create new projects!
 
 <header>
   <div align="center">
+    <a href="https://portfolio-rj8d.onrender.com/"><img alt="Portfolio" src="https://img.shields.io/badge/%E2%80%8B-Portfolio-28b061?style=flat&logo=reverbnation&logoColor=white"></a>
     <a href="https://aznguy.com"><img alt="Website" src="https://img.shields.io/badge/Website-aznguy.com-blue?style=flat&logo=safari&logoColor=white"></a>
+    <br/>
     <a href="https://github.com/aznguymp4"><img alt="My GitHub Profile" src="https://img.shields.io/badge/GitHub-aznguymp4-blue?style=flat&logo=github&logoColor=white"></a>
     <a href="https://x.com/aznguymp4"><img alt="My X Profile" src="https://img.shields.io/badge/Twitter-aznguymp4-blue?style=flat&logo=x&logoColor=white"></a>
   </div>
   <h3>🔧 Tools I use</h3>
   <div align="center">
-    <img title="JavaScript"        width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img title="Python"            width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img title="HTML5"             width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-    <img title="CSS3"              width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-    <img title="Lua"               width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
-    <img title="Sequelize"         width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" />
-    <img title="Express"           width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-    <img title="Flask"             width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
-    <img title="SQLAlchemy"        width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
-    <img title="AWS"               width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-    <img title="PostgreSQL"        width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-    <img title="MySQL"             width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-    <img title="Socket.IO"         width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" />
-    <img title="React"             width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-    <img title="Redux"             width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
-    <img title="jQuery"            width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" />
-    <img title="Framer Motion"     width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" />
-    <img title="Git"               width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-    <img title="VS Code"           width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-    <img title="Adobe Illustrator" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg" />
-    <img title="Node.js"           width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-    <img title="npm"               width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+    <a href='https://developer.mozilla.org/en-US/docs/Glossary/JavaScript'>
+      <img title="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    </a>
+    <a href='https://www.python.org/'>
+      <img title="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    </a>
+    <a href='https://www.w3schools.com/html/'>
+      <img title="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+    </a>
+    <a href='https://www.w3schools.com/css/'>
+      <img title="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+    </a>
+    <a href='https://www.lua.org/about.html'>
+      <img title="Lua" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
+    </a>
+    <a href='https://sequelize.org/'>
+      <img title="Sequelize" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" />
+    </a>
+    <a href='https://www.cloudflare.com/'>
+      <img title="Cloudflare" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" />
+    </a>
+    <a href='https://expressjs.com/'>
+      <img title="Express" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+    </a>
+    <a href='https://flask.palletsprojects.com/'>
+      <img title="Flask" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
+    </a>
+    <a href='https://www.sqlalchemy.org/'>
+      <img title="SQLAlchemy" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
+    </a>
+    <a href='https://aws.amazon.com/pm/serv-s3'>
+      <img title="AWS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+    </a>
+    <a href='https://www.postgresql.org/'>
+      <img title="PostgreSQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+    </a>
+    <a href='https://www.mysql.com/'>
+      <img title="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+    </a>
+    <a href='https://socket.io/'>
+      <img title="Socket.IO" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" />
+    </a>
+    <a href='https://react.dev/'>
+      <img title="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    </a>
+    <a href='https://redux.js.org/'>
+      <img title="Redux" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
+    </a>
+    <a href='https://jquery.com/'>
+      <img title="jQuery" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" />
+    </a>
+    <a href='https://www.framer.com/motion/'>
+      <img title="Framer Motion" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" />
+    </a>
+    <a href='https://git-scm.com/'>
+      <img title="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    </a>
+    <a href='https://code.visualstudio.com/'>
+      <img title="VS Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+    </a>
+    <a href='https://www.adobe.com/products/illustrator.html'>
+      <img title="Adobe Illustrator" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg" />
+    </a>
+    <a href='https://www.blender.org/'>
+      <img title="Blender" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
+    </a>
+    <a href='https://nodejs.org/en/about'>
+      <img title="Node.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+    </a>
+    <a href='https://www.npmjs.com/about'>
+      <img title="npm" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+    </a>
   </div>
 
   <h3>📫 Contact Me</h3>
