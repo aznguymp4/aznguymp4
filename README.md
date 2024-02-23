@@ -12,7 +12,7 @@ As a child, my creative mind had always enjoyed making things and learning about
 
 <header>
   <div align="center">
-    <a href="https://portfolio-rj8d.onrender.com/"><img alt="Portfolio" src="https://img.shields.io/badge/%E2%80%8B-Portfolio-28b061?style=flat&logo=reverbnation&logoColor=white"></a>
+    <a href="https://p.aznguy.com"><img alt="Portfolio" src="https://img.shields.io/badge/%E2%80%8B-Portfolio-28b061?style=flat&logo=reverbnation&logoColor=white"></a>
     <a href="https://aznguy.com"><img alt="Website" src="https://img.shields.io/badge/Website-aznguy.com-blue?style=flat&logo=safari&logoColor=white"></a>
     <br/>
     <a href="https://github.com/aznguymp4"><img alt="My GitHub Profile" src="https://img.shields.io/badge/GitHub-aznguymp4-blue?style=flat&logo=github&logoColor=white"></a>
