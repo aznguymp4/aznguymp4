@@ -8,7 +8,7 @@
 </a> -->
 
 ## 👋 Hi, I'm Erich Nguyen <img alt="Erich Nguyen Small Portrait" src="./PortraitSmall.webp" width="32px" style="transform: translateY(-4px); border-radius: 25%; float: right;"/>
-I started full-stack web development in 2019. Excited to create new projects!
+As a child, my creative mind had always enjoyed making things and learning about technology—that meant programming was the perfect opportunity to combine the two. I’ve been doing web development since 2019; I constantly think about efficient and modular ways to write unique code.
 
 <header>
   <div align="center">
