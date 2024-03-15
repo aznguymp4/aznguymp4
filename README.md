@@ -1,5 +1,5 @@
 <!-- Credits to Enji Kusnadi for inspiration - https://github.com/enjidev -->
-<a href="#">
+<a href="https://erich-n.com/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./header-light.svg" />
