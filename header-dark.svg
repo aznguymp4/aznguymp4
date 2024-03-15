@@ -99,7 +99,7 @@
     </style>
     <linearGradient id="linearGradient1" x1="2048" y1="0" x2="2048" y2="2048" gradientUnits="userSpaceOnUse">
         <stop offset="0" stop-color="#19212d" stop-opacity="1"/>
-        <stop offset="0.951542" stop-color="#19212d" stop-opacity="0"/>
+        <stop offset="0.95" stop-color="#19212d" stop-opacity="0"/>
     </linearGradient>
     <path id="background" fill="url(#linearGradient1)" fill-rule="nonzero" stroke="none" d="M 0 2048 L 4096 2048 L 4096 250 C 4096 111.928833 3984.071289 0 3846 0 L 250 0 C 111.92881 0 0 111.928833 0 250 Z"/>
     <g id="openToWork">
