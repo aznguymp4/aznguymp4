@@ -1,4 +1,4 @@
-<!-- Credits to Enji Kusnadi - https://github.com/enjidev -->
+<!-- Credits to Enji Kusnadi for inspiration - https://github.com/enjidev -->
 <!-- <a href="#">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
@@ -50,9 +50,7 @@ As a child, my creative mind had always enjoyed making things and learning about
 </header>
 <br/><br/>
 <details>
-  <summary>
-    <h3>📊 Stats</h3>
-  </summary>
+  <summary>📊 <b>Stats<b></summary>
   <div>
     <br/>
     <div>
