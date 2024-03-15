@@ -1,22 +1,22 @@
 <!-- Credits to Enji Kusnadi for inspiration - https://github.com/enjidev -->
-<!-- <a href="#">
+<a href="#">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./header.svg" />
-    <img alt="Erich Nguyen — Full-Stack Software Engineer" src="./header.svg" width="100%" />
+    <source media="(prefers-color-scheme: light)" srcset="./header-dark.svg" />
+    <img alt="Erich Nguyen — Full-Stack Software Engineer" src="./header-dark.svg" width="100%" />
   </picture>
-</a> -->
-
-## 👋 Hi, I'm Erich Nguyen <img alt="Erich Nguyen Small Portrait" src="./PortraitSmall.webp" width="32px" style="transform: translateY(-4px); border-radius: 25%; float: right;"/>
-As a child, my creative mind had always enjoyed making things and learning about technology—that meant programming was the perfect opportunity to combine the two. I’ve been doing web development since 2019; I constantly think about efficient and modular ways to write unique code.
+</a>
 
 <header>
   <div align="center">
-    <a href="https://erich-n.com"><img alt="Portfolio" src="https://img.shields.io/badge/%E2%80%8B-Portfolio-28b061?style=flat&logo=reverbnation&logoColor=white"></a>
+    <a href="https://erich-n.com"><img alt="Portfolio" src="https://img.shields.io/badge/%E2%80%8B-Portfolio-6687ff?style=flat&logo=reverbnation&logoColor=white"></a>
     <br/>
-    <a href="https://github.com/aznguymp4"><img alt="My GitHub Profile" src="https://img.shields.io/badge/GitHub-aznguymp4-blue?style=flat&logo=github&logoColor=white"></a>
-    <a href="https://x.com/aznguymp4"><img alt="My X Profile" src="https://img.shields.io/badge/Twitter-aznguymp4-blue?style=flat&logo=x&logoColor=white"></a>
+    <a href="https://github.com/aznguymp4"><img alt="My GitHub Profile" src="https://img.shields.io/badge/GitHub-aznguymp4-6687ff?style=flat&logo=github&logoColor=white"></a>
+    <a href="https://x.com/aznguymp4"><img alt="My X Profile" src="https://img.shields.io/badge/Twitter-aznguymp4-6687ff?style=flat&logo=x&logoColor=white"></a>
   </div>
+
+  ### <center>👋 Hey, I'm Erich Nguyen</center>
+  As a child, my creative mind had always enjoyed making things and learning about technology—that meant programming was the perfect opportunity to combine the two. I’ve been doing web development since 2019; I constantly think about efficient and modular ways to write unique code.
   <h3>🔧 Tools I use</h3>
   <div align="center">
     <a target='_blank' rel='noopener noreferrer' href='https://developer.mozilla.org/en-US/docs/Glossary/JavaScript'><img title="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/></a>
@@ -44,11 +44,12 @@ As a child, my creative mind had always enjoyed making things and learning about
     <a target='_blank' rel='noopener noreferrer' href='https://nodejs.org/en/about'><img title="Node.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/></a>
     <a target='_blank' rel='noopener noreferrer' href='https://www.npmjs.com/about'><img title="npm" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"/></a>
   </div>
-
   <h3>📫 Contact Me</h3>
   <a href="mailto:mail@aznguy.com">mail@erich-n.com</a>
 </header>
-<br/><br/>
+
+<br/>
+
 <details>
   <summary>📊 <b>Stats<b></summary>
   <div>
