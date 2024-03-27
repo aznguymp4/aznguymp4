@@ -14,6 +14,7 @@
     <br/>
     <a href="https://github.com/aznguymp4"><img alt="My GitHub Profile" src="https://img.shields.io/badge/GitHub-aznguymp4-6687ff?style=flat&logo=github&logoColor=white"></a>
     <a href="https://x.com/aznguymp4"><img alt="My X Profile" src="https://img.shields.io/badge/Twitter-aznguymp4-6687ff?style=flat&logo=x&logoColor=white"></a>
+    <a href="https://github.com/aznguymp4"><img alt="My GitHub Profile" src="https://img.shields.io/badge/GitHub-aznguymp4-6687ff?style=flat&logo=github&logoColor=white"></a>
   </div>
 
   ### <center>👋 Hey, I'm Erich Nguyen</center>
