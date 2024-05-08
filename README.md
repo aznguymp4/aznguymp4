@@ -1,4 +1,5 @@
 <!-- Credits to Enji Kusnadi for inspiration - https://github.com/enjidev -->
+
 <a href="#">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
