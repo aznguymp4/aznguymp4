@@ -25,7 +25,7 @@
         opacity: 0;
         animation-delay: calc(var(--globalDelay) + .25s);
       }
-      
+    
       #hey {
         transform: translate3d(279px, 0, 0);
         animation: hey .8s cubic-bezier(.32,1.58,.39,.91) forwards;
