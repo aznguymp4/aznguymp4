@@ -18,7 +18,7 @@
   </div>
 
   ### <center>👋 Hey, I'm Erich Nguyen</center>
-  As a child, my creative mind had always enjoyed making things and learning about technology—that meant programming was the perfect opportunity to combine the two. I’ve been doing web development since 2019; I constantly think about efficient and modular ways to write unique code.
+  Growing up, my creative mind had always enjoyed making things and learning about technology—that meant programming was the perfect opportunity to combine the two. I’ve been doing web development since 2019; I constantly think about efficient and modular ways to write unique code.
   <h3>🔧 Tools I use</h3>
   <div align="center">
     <a target='_blank' rel='noopener noreferrer' href='https://developer.mozilla.org/en-US/docs/Glossary/JavaScript'><img title="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/></a>
